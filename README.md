@@ -7,6 +7,4 @@
 
 1. `./test.sh`
 
-# Enjoy!
 
-Try and fix the test in `src/lib.rs`
